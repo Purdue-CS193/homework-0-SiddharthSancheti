@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+# Siddharth Sancheti's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some of my favorite things about CS193:
+- The class is hella chill.
+- The instructors are students like us, so they get our struggles.
+- I have friends taking this class.
+- This class actually teaches me skills relavent to my field which I will be using in the workforce.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an example of an italisized statement:
+_The quick brown fox jumped over the lazy dog._
+
+This is an example of a bolded statement:
+**I love Purdue's CS193 class! Please give me an A now.**
+
+My favorite things in the world:
+1. My mom
+2. My bed
+3. Money
 
 ### Markdown
 
